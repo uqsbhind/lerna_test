@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uqsbhind/lerna_test/issues"
   },
-  "homepage": "https://github.com/uqsbhind/lerna_test#readme"
+  "homepage": "https://github.com/uqsbhind/lerna_test#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
 }
